@@ -4,4 +4,6 @@ matplotlib
 pandas
 numpy
 scikit-learn
+seaborn
+pyngrok
 
